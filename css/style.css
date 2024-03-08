@@ -6,10 +6,12 @@ body {
   background-color: aqua;
   color: black;
 }
-p {
-  font-size: medium;
+
+h2 {
+  color: chocolate;
+  font-size: smaller;
 }
-button {
-  background-color: blue;
-  
+
+p {
+  font-size: larger;
 }
