@@ -1,7 +1,7 @@
 /* Created by: Yoochan Han
 * Created on: Mar 2024
-* This file contains the CSS for index.html
-*/
+* This file contains the CSS for index.html */
+
 body {
   background-color: aqua;
   color: black;
@@ -9,11 +9,10 @@ body {
 
 h2 {
   color: chocolate;
-  font-size: small;
 }
 
 p {
-  font-size: larger;
+  font-size: large;
 }
 .right-image {
   width: 512px;
